@@ -1,1 +1,1 @@
-# JavaSwing - concept and practice
+# JavaSwing - concept and practice.
